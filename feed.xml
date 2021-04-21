@@ -3,12 +3,32 @@
     <title>arravast</title>
     <link href="https://greenep.github.io/gh_pages/feed.xml" rel="self" />
     <link href="https://greenep.github.io/gh_pages" />
-    <updated>2021-04-21T18:17:37-04:00</updated>
+    <updated>2021-04-21T18:24:32-04:00</updated>
     <author>
         <name>ep</name>
     </author>
     <id>https://greenep.github.io/gh_pages</id>
 
+    <entry>
+        <title>Before the summer</title>
+        <author>
+            <name>ep</name>
+        </author>
+        <link href="https://greenep.github.io/gh_pages/before-the-summer.html"/>
+        <id>https://greenep.github.io/gh_pages/before-the-summer.html</id>
+
+        <updated>2021-04-21T18:24:32-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Wondering if highlight looks better
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3 class="align-center"><span style="color: #ba372a;">Wondering if</span> <mark>highlight</mark> looks better</h3>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Blast off</title>
         <author>
@@ -17,9 +37,17 @@
         <link href="https://greenep.github.io/gh_pages/blast-off.html"/>
         <id>https://greenep.github.io/gh_pages/blast-off.html</id>
 
-        <updated>2021-04-21T18:17:37-04:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2021-04-21T18:19:22-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Wanted to see how easy this actually was...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Wanted to see how easy this actually was...</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>This is my first post.</title>
